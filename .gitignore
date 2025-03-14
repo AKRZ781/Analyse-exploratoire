@@ -172,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+echo "Stop_Data_2019_to_2022.csv" >> .gitignore
